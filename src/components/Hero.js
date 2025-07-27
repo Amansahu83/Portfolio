@@ -31,7 +31,7 @@ const Hero = () => {
         <div className="hero-content">
           <div className="hero-photo">
             <img 
-              src="/images/IMG_20240801_110054082~2.jpg" 
+              src="/images/IMG_20240307_180849_895__1_-removebg-preview.png" 
               alt="Aman Gupta - Full Stack Developer"
               className="profile-image"
             />
